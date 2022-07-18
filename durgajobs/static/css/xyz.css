@@ -1,0 +1,12 @@
+table, thead, th{
+margin: auto;
+font-size: 15px;
+color: black;
+border: 2px solid yellow;
+background: yellow;
+  }
+tr, td{
+  color: Charcoal;
+  border: 2px solid yellow;
+  background: white;
+}
